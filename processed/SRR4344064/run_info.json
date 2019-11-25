@@ -1,0 +1,9 @@
+{
+	"n_targets": 187626,
+	"n_bootstraps": 0,
+	"n_processed": 17561896,
+	"kallisto_version": "0.43.1",
+	"index_version": 10,
+	"start_time": "Sun Nov 24 21:26:52 2019",
+	"call": "kallisto quant --index=/gpfs/home/sjafri/TEST/kallisto_index --output-dir=/gpfs/home/sjafri/scpTest/honors/SRR4344064 --threads=4 --plaintext /gpfs/home/sjafri/scpTest/honors/SRR4344064_1.fastq.gz /gpfs/home/sjafri/scpTest/honors/SRR4344064_2.fastq.gz"
+}
