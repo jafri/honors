@@ -4,6 +4,6 @@
 	"n_processed": 6864010,
 	"kallisto_version": "0.43.1",
 	"index_version": 10,
-	"start_time": "Sun Nov 24 21:19:28 2019",
-	"call": "kallisto quant --index=/gpfs/home/sjafri/TEST/kallisto_index --output-dir=/gpfs/home/sjafri/scpTest/honors/SRR4344003 --threads=4 --plaintext /gpfs/home/sjafri/scpTest/honors/SRR4344003_1.fastq.gz /gpfs/home/sjafri/scpTest/honors/SRR4344003_2.fastq.gz"
+	"start_time": "Fri Nov 29 16:55:12 2019",
+	"call": "kallisto quant --index=/gpfs/home/sjafri/TEST/kallisto_index --output-dir=/gpfs/home/sjafri/scpTest/honors/SRR4344003 --threads=4 /gpfs/home/sjafri/scpTest/honors/SRR4344003_1.fastq.gz /gpfs/home/sjafri/scpTest/honors/SRR4344003_2.fastq.gz"
 }
